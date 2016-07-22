@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+
+   <extension
+         point="org.eclipse.ui.editors">
+      <editor
+            name="Blanco Visualforce Editor"
+            extensions="component,page"
+            icon="icons/sample.gif"
+            contributorClass="org.eclipse.ui.texteditor.BasicTextEditorActionContributor"
+            class="blanco.visualforceeditor.editors.VisualforceEditor"
+            id="blanco.visualforceeditor.editors.VisualforceEditor">
+      </editor>
+   </extension>
+
+</plugin>
