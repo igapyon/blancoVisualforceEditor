@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: BlancoVisualforceEditor
 Bundle-SymbolicName: BlancoVisualforceEditor;singleton:=true
-Bundle-Version: 0.6.0.v20160723c
+Bundle-Version: 0.6.0.v20160723d
 Bundle-Vendor: Igapyon
 Require-Bundle: org.eclipse.core.runtime,
  org.eclipse.ui,
