@@ -1,6 +1,6 @@
 # blancoVisualforceEditor
 
-blancoVisualforceEditor is a Visualforce source code editor for Eclipse.
+blancoVisualforceEditor is a Visualforce code editor for Eclipse.
 blancoVisualforceEditor is written in Java. blancoVisualforceEditor is provided as an OSS product.
 
 ## install
